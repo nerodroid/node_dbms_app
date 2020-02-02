@@ -1,9 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\meanBackend",
     "\\meanBackend\\models"
   ],
-  "SelectedNode": "\\meanBackend\\models\\dataSchema.js",
   "PreviewInSolutionExplorer": false
 }
